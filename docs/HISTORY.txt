@@ -1,6 +1,9 @@
 Changelog
 =========
 
+
+- added support for dexterity image behaviour [espen]
+
 3.3.2 (2013-07-05)
 ------------------
 
